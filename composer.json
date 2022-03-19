@@ -1,0 +1,27 @@
+{
+  "name": "whereof/think-image",
+  "license": "MIT",
+  "description": "一个不依赖任何框架的image操作类，独立thinkphp3.2.3中Image类",
+  "keywords": [
+    "Image",
+    "裁剪图片",
+    "生成缩略图",
+    "图片水印"
+  ],
+  "authors": [
+    {
+      "name": "qphper",
+      "email": "tp5er@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "whereof\\ThinkImage\\": "src"
+    }
+  },
+  "require-dev": {
+  },
+  "type": "library"
+}
